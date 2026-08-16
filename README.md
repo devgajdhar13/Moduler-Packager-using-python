@@ -74,49 +74,49 @@ flowchart TD
 ### 🏠 Main Menu
 The central hub connecting every module in the toolkit.
 
-![Main Menu](screenshots/Menu.png)
+![Main Menu](Screenshorts/Menu.png)
 
 ---
 
 ### 🕒 Datetime & Time Operations
 Displaying the current date/time and calculating the difference between two dates.
 
-![Datetime and Time Operations](screenshots/Datetime_And_Time.png)
+![Datetime and Time Operations](Screenshorts/Datetime_And_Time.png)
 
 ---
 
 ### ➗ Mathematical Operations
 Calculating factorials and solving compound interest problems.
 
-![Mathematical Operations](screenshots/Mathematical.png)
+![Mathematical Operations](Screenshorts/Mathematical.png)
 
 ---
 
 ### 🎲 Random Data Generation
 Generating random numbers within a range and creating secure OTPs.
 
-![Random Data Generation](screenshots/Random_Data.png)
+![Random Data Generation](Screenshorts/Random_Data.png)
 
 ---
 
 ### 🆔 UUID Generator
 Generating a unique identifier (UUID) in a single command.
 
-![UUID Generator](screenshots/UUID.png)
+![UUID Generator](Screenshorts/UUID.png)
 
 ---
 
 ### 📁 File Operations
 Creating, writing, and reading files through the custom file-handling module.
 
-![File Operations](screenshots/File_Operator.png)
+![File Operations](Screenshorts/File_Operator.png)
 
 ---
 
 ### 🔍 Module Explorer
 Using `dir()` to dynamically inspect the attributes of Python's built-in `math` module.
 
-![Explore Module Attributes](screenshots/Exploree_Modual.png)
+![Explore Module Attributes](Screenshorts/Exploree_Modual.png)
 
 ---
 
