@@ -81,7 +81,7 @@ The central hub connecting every module in the toolkit.
 ### 🕒 Datetime & Time Operations
 Displaying the current date/time and calculating the difference between two dates.
 
-![Datetime and Time Operations](ScreenShorts/Datetime_And_Time.png)
+![Datetime and Time Operations](ScreenShorts/Datetime And Time.png)
 
 ---
 
@@ -95,7 +95,7 @@ Calculating factorials and solving compound interest problems.
 ### 🎲 Random Data Generation
 Generating random numbers within a range and creating secure OTPs.
 
-![Random Data Generation](ScreenShorts/Random_Data.png)
+![Random Data Generation](ScreenShorts/Random Data.png)
 
 ---
 
@@ -109,14 +109,14 @@ Generating a unique identifier (UUID) in a single command.
 ### 📁 File Operations
 Creating, writing, and reading files through the custom file-handling module.
 
-![File Operations](ScreenShorts/File_Operator.png)
+![File Operations](ScreenShorts/File Operator.png)
 
 ---
 
 ### 🔍 Module Explorer
 Using `dir()` to dynamically inspect the attributes of Python's built-in `math` module.
 
-![Explore Module Attributes](ScreenShorts/Exploree_Modual.png)
+![Explore Module Attributes](ScreenShorts/Exploree Modual.png)
 
 ---
 
